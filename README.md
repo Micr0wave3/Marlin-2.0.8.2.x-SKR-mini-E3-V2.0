@@ -2,7 +2,7 @@ Current version of marlin software running on shitbot9000
 this is not for your printers to use
 it is a private marlin config for
 
------------------
+----------------
 
 Ender 3
 Skr mini e3 v2.0
