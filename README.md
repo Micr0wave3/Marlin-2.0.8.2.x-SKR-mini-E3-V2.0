@@ -1,15 +1,24 @@
+S H I T B O T 9 0 0 0
+
 Current version of marlin software running on shitbot9000
 this is not for your printers to use
 it is a private marlin config for
 
 ----------------
 
-Ender 3
-Skr mini e3 v2.0
-bltouch - offsets
-  ![image](https://user-images.githubusercontent.com/63541774/137529085-721d924b-17e8-4f1b-aef1-e521629db8fb.png)
-flex metal bed
-buildtak surface
+--Ender 3
+
+--Skr mini e3 v2.0
+
+--Bltouch - offsets {-40, -8, -1.6}
+  
+--Flex metal bed
+
+--Buildtak surface
+
+--Microswiss fullmetal hotend
+
+--Microswiss direct drive
 
 -----------------
 
